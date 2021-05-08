@@ -21,3 +21,5 @@
 10 - Customer movement analysis
 
 11 - Voice of customer
+
+12 - Design thinking
