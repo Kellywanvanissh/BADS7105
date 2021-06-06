@@ -9,5 +9,7 @@ First we run all data in python to generate box plot and correlation. however, w
 
 CRM is all about 'get to know better to create stronger relationship'. 
 
-With this simple thought, this brought us to another idea of showing the data to 'GETTING TO KNOW CHEATSHEET'.
+With this simple thought, this brought us to another idea of showing the data to 'GETTING TO ALONG CHEATSHEET', CHEATSHEET that will give you conversation opener with BADS students and also the next topics if you feel like continue talking with them forever. 
+
+Enjoy!
 
