@@ -1,6 +1,6 @@
 # BADS7105
 
-1 - Analysis of customer behaviors
+1 - [Analysis of customer behaviors](https://github.com/Kellywanvanissh/BADS7105/tree/main/Homework1)
 
 2 - Jobs to be done
 
