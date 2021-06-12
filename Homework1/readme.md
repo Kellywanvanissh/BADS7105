@@ -13,3 +13,7 @@ With this simple thought, this brought us to another idea of showing the data to
 
 Enjoy!
 
+![image](https://user-images.githubusercontent.com/77537240/121768551-eef5a980-cb88-11eb-9c49-1a193235f910.png)
+
+![image](https://user-images.githubusercontent.com/77537240/121768557-f1580380-cb88-11eb-90db-b0b3af69bc0f.png)
+
