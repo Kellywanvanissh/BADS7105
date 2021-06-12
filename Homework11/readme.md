@@ -12,6 +12,7 @@ so we create def topic2Array to match keyword into sentence, using model_numtopi
 From the result we can see that consumers love to review about Shabushabu around pricing, food quality, staff & service.
 However, this still require human to work on sentence rearranging and grouping to make the result clearer and able to utilize for further CRM/Marketing work
 
+![image](https://user-images.githubusercontent.com/77537240/121768506-c53c8280-cb88-11eb-879b-c121a4d3a51b.png)
 
 
 
